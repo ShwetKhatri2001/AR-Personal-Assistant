@@ -923,7 +923,7 @@ const WorkoutCanvas = () => {
               className={`primary-btn ${styles.controlButtons}`}
               onClick={resetCount}
             >
-              Reset
+              Reset Count
             </button>
             <button
               className={`secondary-btn ${styles.controlButtons}`}
